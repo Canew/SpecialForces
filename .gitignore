@@ -1,0 +1,11 @@
+
+# Ignore unreal directories.
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+Content/
+
+# Ignore additives.
