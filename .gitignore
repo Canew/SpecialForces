@@ -6,6 +6,9 @@ DerivedDataCache/
 Intermediate/
 Saved/
 Script/
-Content/
+Content/SoulCity
+Content/sA_Megapack_v1
+Content/Scanned3DPeoplePack
 
 # Ignore additives.
+Content/Maps/SoulCity/LV_Soul_Slum_BuiltData.uasset
